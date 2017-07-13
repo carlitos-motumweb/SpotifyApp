@@ -1,0 +1,47 @@
+<div *ngIf="artistaSeleccionado" class="container main-container">
+  <div class="row">
+    <div class="col-md-3 text-center">
+      <img [src]="artistaSeleccionado.images | sinfoto" class="img-thumbnail img-circle">
+      <br>
+    </div>
+    <div class="col-md-9">
+      <h3>{{artistaSeleccionado.name}} <small>{{artistaSeleccionado.popularity}}</small></h3>
+      <hr>
+      <a [href]="artistaSeleccionado.external_urls?.spotify" class="btn btn-outline-success">Ver p&aacute;gina</a>
+      <a [routerLink]="['/buscar']" class="btn btn-outline-warning">Regresar</a>
+    </div>
+  </div>
+</div>
+
+<div *ngIf="topCancionesArtista && artistaSeleccionado" class="container main-container">
+  <h3>Top de {{artistaSeleccionado.name}}</h3>
+  <hr>
+  <div class="row">
+    <div class="col-md-12">
+      <div class="table_responsive">
+        <table class="table table-inverse table-hover">
+          <thead>
+            <tr>
+              <th>#</th>
+              <th>Foto</th>
+              <th>Canción</th>
+              <th>Popularidad</th>
+              <th>Preview</th>
+            </tr>
+          </thead>
+          <tbody>
+              <tr *ngFor="let track of topCancionesArtista; let i = index;">
+                  <td>{{ i  + 1 }}</td>
+                  <td><img [src]="track.album.images | sinfoto" class="img-fluid img-circle img-small"></td>
+                  <td>{{ track.name }}</td>
+                  <td>{{ track.popularity}}</td>
+                  <!-- <td> <iframe src="https://open.spotify.com/embed?uri={{track.uri}}" width="300" height="80" frameborder="0" allowtransparency="true"></iframe></td> -->
+                  <td> <iframe [src]=" track.uri | domseguro:'https://open.spotify.com/embed?uri='" width="300" height="80" frameborder="0" allowtransparency="true"></iframe></td>
+                  <!-- <td> <audio controls> <source [src]="track.preview_url"></audio></td> -->
+              </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>

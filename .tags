@@ -1,0 +1,45 @@
+div	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/app/components/home/home.component.html	/^<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">$/;"	function	line:1
+ol	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/app/components/home/home.component.html	/^  <ol class="carousel-indicators">$/;"	function	line:2
+li	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/app/components/home/home.component.html	/^    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"><\/li>$/;"	function	line:3
+li	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/app/components/home/home.component.html	/^    <li data-target="#carouselExampleIndicators" data-slide-to="1"><\/li>$/;"	function	line:4
+li	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/app/components/home/home.component.html	/^    <li data-target="#carouselExampleIndicators" data-slide-to="2"><\/li>$/;"	function	line:5
+div	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/app/components/home/home.component.html	/^  <div class="carousel-inner" role="listbox">$/;"	function	line:7
+div	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/app/components/home/home.component.html	/^    <div class="carousel-item active" style="background-image:url('assets\/img\/ed-sheeran.jpg')"><\/div>$/;"	function	line:9
+div	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/app/components/home/home.component.html	/^    <div class="carousel-item " style="background-image:url('assets\/img\/metallica.jpg')"><\/div>$/;"	function	line:10
+div	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/app/components/home/home.component.html	/^    <div class="carousel-item " style="background-image:url('assets\/img\/heroes.jpg')"><\/div>$/;"	function	line:11
+a	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/app/components/home/home.component.html	/^  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">$/;"	function	line:13
+span	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/app/components/home/home.component.html	/^    <span class="carousel-control-prev-icon" aria-hidden="true"><\/span>$/;"	function	line:14
+span	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/app/components/home/home.component.html	/^    <span class="sr-only">Previous<\/span>$/;"	function	line:15
+a	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/app/components/home/home.component.html	/^  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">$/;"	function	line:17
+span	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/app/components/home/home.component.html	/^    <span class="carousel-control-next-icon" aria-hidden="true"><\/span>$/;"	function	line:18
+span	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/app/components/home/home.component.html	/^    <span class="sr-only">Next<\/span>$/;"	function	line:19
+div	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/app/components/home/home.component.html	/^<div class="container top-30">$/;"	function	line:23
+div	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/app/components/home/home.component.html	/^    <div class="row">$/;"	function	line:24
+div	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/app/components/home/home.component.html	/^        <div class="col-md-4 text-center"><img src="assets\/img\/artist.png" alt="Artistas"><hr>Lorem ipsum dolor sit amet.<\/div>$/;"	function	line:25
+div	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/app/components/home/home.component.html	/^        <div class="col-md-4 text-center"><img src="assets\/img\/music.png" alt="Musica"><hr>Lorem ipsum dolor sit amet.<\/div>$/;"	function	line:26
+div	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/app/components/home/home.component.html	/^        <div class="col-md-4 text-center"><img src="assets\/img\/album.png" alt="Album"><hr>Lorem ipsum dolor sit amet.<\/div>$/;"	function	line:27
+hr	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/styles.css	/^hr {$/;"	function	line:2
+body	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/styles.css	/^body {$/;"	function	line:6
+.jumbotron	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/styles.css	/^.jumbotron{$/;"	function	line:11
+.puntero	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/styles.css	/^.puntero{$/;"	function	line:15
+.carousel-item	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/styles.css	/^.carousel-item{$/;"	function	line:19
+@media (max-width: 600px)	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/styles.css	/^@media (max-width: 600px) {$/;"	function	line:28
+.carousel-item	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/styles.css	/^  .carousel-item {$/;"	function	line:29
+.main-container	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/styles.css	/^.main-container{$/;"	function	line:35
+.img-circle	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/styles.css	/^.img-circle{$/;"	function	line:39
+.animated	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/styles.css	/^.animated {$/;"	function	line:45
+.fast	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/styles.css	/^.fast {$/;"	function	line:52
+@keyframes fadeIn	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/styles.css	/^@keyframes fadeIn {$/;"	function	line:59
+from	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/styles.css	/^  from {$/;"	function	line:60
+to	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/styles.css	/^  to {$/;"	function	line:64
+.fadeIn	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/styles.css	/^.fadeIn {$/;"	function	line:69
+.top-30	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/styles.css	/^.top-30{$/;"	function	line:73
+div	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/app/components/search/search.component.html	/^<div class="container top-30">$/;"	function	line:1
+div	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/app/components/search/search.component.html	/^  <div class="row">$/;"	function	line:2
+div	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/app/components/search/search.component.html	/^    <div class="col-md-3">$/;"	function	line:4
+label	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/app/components/search/search.component.html	/^        <label for="nombreArtista">Buscador de artistas<\/label>$/;"	function	line:5
+input	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/app/components/search/search.component.html	/^      <input [(ngModel)]="nombreArtista" type="text" name="nombreArtista" placeholder="Buscar por artista" class="form-control" (keypress)="buscarArtista()">$/;"	function	line:6
+hr	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/app/components/search/search.component.html	/^      <hr>$/;"	function	line:7
+div	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/app/components/search/search.component.html	/^    <div class="col-md-9">$/;"	function	line:9
+ul	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/app/components/search/search.component.html	/^        <ul>$/;"	function	line:10
+li	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/app/components/search/search.component.html	/^            <li *ngFor="let artista of _spotifyService.artistas">{{artista | json}}<\/li>$/;"	function	line:11

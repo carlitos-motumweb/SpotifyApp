@@ -1,0 +1,15 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+div	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/app/components/search/search.component.html	/^<div class="container top-30">$/;"	function	line:1
+div	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/app/components/search/search.component.html	/^  <div class="row">$/;"	function	line:2
+div	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/app/components/search/search.component.html	/^    <div class="col-md-3">$/;"	function	line:4
+label	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/app/components/search/search.component.html	/^        <label for="nombreArtista">Buscador de artistas<\/label>$/;"	function	line:5
+input	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/app/components/search/search.component.html	/^      <input [(ngModel)]="nombreArtista" type="text" name="nombreArtista" placeholder="Buscar por artista" class="form-control" (keypress)="buscarArtista()">$/;"	function	line:6
+hr	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/app/components/search/search.component.html	/^      <hr>$/;"	function	line:7
+div	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/app/components/search/search.component.html	/^    <div class="col-md-9">$/;"	function	line:9
+ul	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/app/components/search/search.component.html	/^        <ul>$/;"	function	line:10
+li	/home/carlitos/Documentos/cursos-UDEMY/Angular/SpotifyAPP/src/app/components/search/search.component.html	/^            <li *ngFor="let artista of _spotifyService.artistas">{{artista | json}}<\/li>$/;"	function	line:11
